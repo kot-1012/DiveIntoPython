@@ -1,0 +1,10 @@
+2024-10-16 11:59:01,872 - INFO - Сбор информации о содержимом директории: C:\test\1
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='debug_info', extension='.log', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='logs', extension='.txt', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='README', extension='.md', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='task1', extension='.py', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='task2', extension='.py', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='task3', extension='.py', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='task4', extension='.py', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='task5', extension='.py', is_dir=False, parent_dir='1')
+2024-10-16 11:59:01,872 - INFO - Найден объект: FileInfo(name='warnings_errors', extension='.log', is_dir=False, parent_dir='1')
